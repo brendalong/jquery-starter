@@ -1,0 +1,19 @@
+{
+  "songs": [
+    {
+      "title":"Gimme All Your Lovin",
+      "album": "Eliminator",
+      "artist": "ZZ Top"
+    },
+    {
+      "title":"Welcome To The Jungle",
+      "album": "Appetite For Destruction",
+      "artist": "Guns & Roses"
+    },
+    {
+      "title":"Jesus is a Friend of Mine",
+      "album": "First Fruit",
+      "artist": "Sonseed"
+    }
+  ]
+}
